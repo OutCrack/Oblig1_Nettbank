@@ -8,5 +8,6 @@ namespace Oblig1_Nettbank
     public class Kunde
     {
         //johoooooooo
+        //Dette var ikke enkelt
     }
 }
